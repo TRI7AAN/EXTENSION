@@ -1,0 +1,45 @@
+h1, h2, h3
+{
+    color:bisque;
+    background-color: black;
+    font-size: 25px; /* Font size */
+}
+body
+{
+    padding: 15;
+    color:bisque;
+    background-color:black;
+    font-size: 16px; /* Font size */
+}
+button 
+{
+    background-color: #000000; /* Button background color */
+    color: beige; /* Text color */
+    border: 2px solid bisque; /* Outline color */
+    padding: 10px 20px; /* Padding inside the button */
+    font-size: 16px; /* Font size */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor changes on hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+button:hover 
+{
+    background-color: bisque; /* Background on hover */
+    color: black; /* Text color on hover */
+}
+input 
+{
+    background-color: #000000; /* Button background color */
+    color: beige; /* Text color */
+    border: 2px solid bisque; /* Outline color */
+    padding: 10px 20px; /* Padding inside the button */
+    font-size: 16px; /* Font size */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor changes on hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+input:hover 
+{
+    background-color: bisque; /* Background on hover */
+    color: black; /* Text color on hover */
+}
